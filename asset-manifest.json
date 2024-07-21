@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/first-react-project/static/css/main.856b4a84.css",
+    "main.js": "/first-react-project/static/js/main.6b7b5761.js",
+    "static/media/space.mp4": "/first-react-project/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/first-react-project/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/moon.jpg": "/first-react-project/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/pod.jpg": "/first-react-project/static/media/pod.30776f82b7df80237211.jpg",
+    "static/media/earth.webp": "/first-react-project/static/media/earth.978d6711555c522f34e1.webp",
+    "index.html": "/first-react-project/index.html",
+    "main.856b4a84.css.map": "/first-react-project/static/css/main.856b4a84.css.map",
+    "main.6b7b5761.js.map": "/first-react-project/static/js/main.6b7b5761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856b4a84.css",
+    "static/js/main.6b7b5761.js"
+  ]
+}
